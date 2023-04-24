@@ -1,5 +1,5 @@
 # Welcome to MachineFi!
-## _- The Web3 Machine Economy,Powered by IoTeX._
+## _- The Web3 Machine Economy, Powered by IoTeX._
 
 ![MachineFi Goal](https://user-images.githubusercontent.com/38968374/234127892-67b40609-0133-4309-b05c-25c5a83028dd.png)
 
