@@ -1,6 +1,6 @@
-# Welcome to MachineFi!
-## _- The Web3 Machine Economy, Powered by IoTeX._
+# Welcome to MachineFi Lab!
+_Real-world data infrastructure, powered by AI vision._
 
-![MachineFi Goal](https://user-images.githubusercontent.com/38968374/234127892-67b40609-0133-4309-b05c-25c5a83028dd.png)
+We build [Trio](https://docs.machinefi.com), a live stream intelligence service that turns any livestream into a programmable data source. Point it at a stream (RTSP, YouTube Live, Twitch, and more), ask questions in natural language, and get structured answers in real-time. One-shot checks, continuous monitoring with webhooks, and AI-generated narrative digests — all via a simple REST API.
 
-[MachineFi](https://machinefi.com/) Lab, IoTeX’s core developer, is a leading tech provider for Decentralized Physical Infrastructure Networks (DePIN), a real-world Web3 category predicted to become a multi-trillion-dollar economy powered by billions of smart devices and trillions of sensors. Its team of over 60 research scientists and engineers released W3bstream, the world's first decentralized off-chain compute framework for smart devices and real-world data. It aims to provide advanced middleware and tools for Web2 businesses connecting to Web3 token incentives with real-world activity confirmed by user-owned smart devices, unlocking new business opportunities through its Proof-of-Anything technology, which can be used with several data sets, such as in location, activity, and humanity. MachineFi Lab’s easy-to-use tools for the creation of  X-and-earn scenarios, such as play-and-earn, walk-and-earn, or sleep-and-earn—community-owned machine networks, such as smart cities, public utilities, and other physical infrastructure. Backed by nearly 20 prominent VCs, including Samsung Next, Jump Crypto, Draper Dragon, Xoogler Ventures, IOSG, Wemade, HashKey, Wintermute, and Escape Velocity, [MachineFi Lab](https://machinefi.com/lab) is building advanced technology to bring the metaverse into the real world, and vice versa. 
+https://docs.machinefi.com · https://console.machinefi.com · https://machinefi.com
